@@ -22,3 +22,23 @@ This Python program simulates a simple banking system. It allows users to create
 
 <strong>Security and PIN Management</strong><br>
 Change PIN: Users can change their account PIN to enhance security. A new PIN can be set by the account owner.
+# How to Use the Program
+-Run the program.<br>
+
+-The main menu presents three options:<br>
+
+1. Create Account: To create a new user account.<br>
+2. Login: To log in to an existing user account.<br>
+3. Exit: To exit the program.<br>
+-If you choose "Create Account," you will be prompted to enter your name, gender, salary, and set a PIN for your account. Ensure that you enter a valid name and PIN to create your account.<br>
+
+-If you choose "Login," you will be prompted to enter your name and PIN. If the provided login data matches an existing user's data, you will gain access to your account.<br>
+
+-Once logged in, you can use the following menu options:<br>
+
+1. Check Balance: To view your account balance.<br>
+2. Deposit: To deposit money into your account.<br>
+3. Withdraw: To withdraw money from your account.<br>
+4. Transfer: To transfer funds to another user.<br>
+5. Change PIN: To change your PIN.<br>
+6. Logout: To log out of your account.
